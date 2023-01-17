@@ -15,3 +15,9 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100vh;
 }
+
+#logoTittle{
+    font-family: 'Oleo Script', cursive;
+    color: antiquewhite;
+    letter-spacing: .4rem;
+}

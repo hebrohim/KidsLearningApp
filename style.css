@@ -18,37 +18,8 @@ body{
     background-position: top;
 }
 
-#startBtn{
-    background-color:rgba(255, 255, 255, 0.324) ;
-    color: brown;
-    width: 200px;
-    height: 60px;
-    margin-top:20px ;
-    border: 3px solid brown;
-    /* padding: 30px; */
+#logoTittle{
     font-family: 'Oleo Script', cursive;
-    font-size: 3rem;
-    font-weight: bold;
-    letter-spacing: .7rem;
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    color: antiquewhite;
+    letter-spacing: .4rem;
 }
-
-button >a{
- text-decoration: none;
- color: rgb(1, 70, 1);
-}
-button >a:hover{
- color: rgba(1, 70, 1, 0.535);
-transition: all 3s;
-}
-button:hover{
-transform: translate(5px,5px);
- color: rgb(0, 40, 0);
-transition: transform 3s;
-
-
-}
-
